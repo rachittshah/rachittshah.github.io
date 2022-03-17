@@ -1,5 +1,22 @@
-Here you can say lots of fun things about your site.
+# About me
 
-Maybe say a some things about yourself.
+I'm an undergrad with a strong interest in startups, venture capital and software engineering. 
 
-Or maybe what you plan to blog about.
+I live by this quote:
+
+> The ideal engineer is a composite. He is not a scientist, he is not a mathematician, he is not a sociologist or a writer, but he may use the knowledge and techniques of any or all of these disciplines in solving engineering problems.
+
+## Past experiences
+
+- Google Summer of Code 2021 with OpenAstronomy.
+- Google Season of Docs 2021 with HPX.
+- Associate with gradCapital.
+- Investment analyst with EMVC and Speciale Invest.
+- Software Consultant with Sequoia Capital India. 
+- Venture Capital Fellow at Blume Ventures.
+
+## Links
+- [Linkedin](https://www.linkedin.com/in/rachitt-shah/)
+- [Resume](https://drive.google.com/file/d/1UDDPOY4MgY1zdwnVDXzn5zObVoLBr0CK/view?usp=sharing)
+- [Twitter](https://twitter.com/rachittshah)
+- [Github](https://github.com/rachittshah)
