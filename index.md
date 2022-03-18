@@ -13,7 +13,12 @@ I live by this quote:
 - Associate with gradCapital.
 - Investment analyst with EMVC and Speciale Invest.
 - Software Consultant with Sequoia Capital India. 
+
+## Current
 - Venture Capital Fellow at Blume Ventures.
+- Learning about system design for building reliable applications.
+- Upskilling my Python, Go, R and C++ Skills.
+- Building [Offtrack](https://offtrack.world/)
 
 ## Links
 - [Linkedin](https://www.linkedin.com/in/rachitt-shah/)
