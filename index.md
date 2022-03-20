@@ -21,6 +21,5 @@ I live by this quote:
 
 ## Links
 - [Linkedin](https://www.linkedin.com/in/rachitt-shah/)
-- [Resume](https://drive.google.com/file/d/1UDDPOY4MgY1zdwnVDXzn5zObVoLBr0CK/view?usp=sharing)
 - [Twitter](https://twitter.com/rachittshah)
 - [Github](https://github.com/rachittshah)
