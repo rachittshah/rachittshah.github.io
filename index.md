@@ -12,6 +12,7 @@ I live by this quote:
 - Google Season of Docs 2021 with HPX.
 - Associate with gradCapital.
 - Investment analyst with EMVC and Speciale Invest.
+- Software Consultant with Sequoia Capital India.
 
 ## Current
 - Venture Capital Fellow at Blume Ventures.
