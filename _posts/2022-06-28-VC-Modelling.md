@@ -1,4 +1,4 @@
-### Venture Capital financial modelling notebooks 
+### Venture Capital financial modelling notebook
 
 I've always wanted to cover how captables are modelled. Using this github repo, I show how can we build captables, calculate expenses and EBIT, and company valuations.
 
