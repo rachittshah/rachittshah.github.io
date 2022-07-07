@@ -12,11 +12,12 @@ I live by this quote:
 - Google Season of Docs 2021 with HPX.
 - Associate with gradCapital.
 - Investment analyst with EMVC and Speciale Invest.
-
-## Current
 - Venture Capital Fellow at Blume Ventures.
 - Google Season of Docs 2022 with The R Foundation for Statistical Computing.
-- Learning about system design for building reliable applications.
+
+## Current
+
+- Learning about system design for building reliable applications. And a bit of DSA.
 - Upskilling my Python, Go, R and C++ Skills.
 - Building [Offtrack](https://offtrack.world/)
 
