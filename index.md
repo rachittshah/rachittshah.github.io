@@ -17,10 +17,10 @@ I live by this quote:
 
 ## Current
 
+- Data Engineering at Venture Highway.
 - Learning about system design for building reliable applications. And a bit of DSA.
 - Upskilling my Python, Go, R and C++ Skills.
 - Building [Offtrack](https://offtrack.world/)
-
 
 ## Links
 - [Linkedin](https://www.linkedin.com/in/rachitt-shah/)
