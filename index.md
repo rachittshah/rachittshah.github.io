@@ -14,10 +14,11 @@ I live by this quote:
 - Investment analyst with EMVC and Speciale Invest.
 - Venture Capital Fellow at Blume Ventures.
 - Google Season of Docs 2022 with The R Foundation for Statistical Computing.
-
-## Current
-
 - Data Engineering at Venture Highway.
+
+## Current: looking for a new role.
+
+- If my profile looks interesting, please get in touch at [rachitt01@gmail.com](mailto:rachitt01@gmail.com)
 - Learning about system design for building reliable applications. And a bit of DSA.
 - Upskilling my Python, Go, R and C++ Skills.
 - Building [Offtrack](https://offtrack.world/)
