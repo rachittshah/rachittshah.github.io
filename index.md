@@ -15,13 +15,13 @@ I live by this quote:
 - Venture Capital Fellow at Blume Ventures.
 - Google Season of Docs 2022 with The R Foundation for Statistical Computing.
 - Data Engineering at Venture Highway.
+- Quant Developer at an Options trading fund.
 
-## Current: looking for a new role.
+## Current: 
 
-- If my profile looks interesting, please get in touch at [rachitt01@gmail.com](mailto:rachitt01@gmail.com)
-- Learning about system design for building reliable applications. And a bit of DSA.
-- Upskilling my Python, Go, R and C++ Skills.
-- Building [Offtrack](https://offtrack.world/)
+- SRE at Last9 Inc.
+- Learning about Golang.
+- Trying to map out interesting AGI products.
 
 ## Links
 - [Linkedin](https://www.linkedin.com/in/rachitt-shah/)
