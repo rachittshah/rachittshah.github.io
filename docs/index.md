@@ -24,6 +24,7 @@ Some of my past clients include:
 - Giant Ventures
 - Replit
 - Arcee AI
+- Arize AI
 
 *This is a non-exhaustive list.*
 
