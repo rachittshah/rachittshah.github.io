@@ -123,10 +123,9 @@ nav:
 plugins:
   - social
   - rss:
+      abstract_chars_count: 160
       match_path: "blog/posts/.*"
-      date_from_meta:
-        meta: date
-        format: "%Y-%m-%d"
+      date_from_meta_field: date
       categories:
         - tags
       comments_path: "#__comments"
