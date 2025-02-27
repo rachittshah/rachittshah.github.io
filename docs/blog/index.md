@@ -1,7 +1,24 @@
 # Blog Posts
 
-Welcome to my blog! Here you'll find articles about AI Engineering, RAG Systems, and other technical topics.
+Welcome to my blog! Here you'll find my thoughts and experiences on AI Engineering, RAG Systems, Venture Capital, and more.
 
-The posts are organized by date and topic. You can use the search function or browse by tags to find specific content.
+## Latest Posts
 
-[View all posts by tag](tags.md){ .md-button } 
+[BLOG_LIST]
+
+The posts are organized by date and tagged for easy navigation. Use the search feature or browse by tags to find specific topics.
+
+## Categories
+
+- AI Engineering & LLMs
+- RAG Systems
+- Venture Capital
+- Technical Notes
+- Career & Personal Growth
+
+## Subscribe
+
+You can subscribe to my blog updates through:
+- [RSS Feed](/feed_rss_created.xml)
+- [Twitter](https://twitter.com/rachittshah)
+- [LinkedIn](https://www.linkedin.com/in/rachitt-shah/) 
