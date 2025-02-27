@@ -40,4 +40,4 @@ I hold regular office hours for the open-source community. Book a slot to discus
 - Career guidance
 - Open source contributions
 
-[Book Office Hours](https://calendly.com/rachittshah/office-hours){ .md-button } 
+[Book Office Hours](https://calendly.com/rachitt01/intro-call){ .md-button } 
