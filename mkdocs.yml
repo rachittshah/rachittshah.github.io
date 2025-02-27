@@ -124,10 +124,9 @@ plugins:
   - social
   - rss:
       match_path: "blog/posts/.*"
-      date_from_meta: true
-      date_format: "%Y-%m-%d"
-      as_creation: date
-      as_update: date
+      date_from_meta:
+        meta: date
+        format: "%Y-%m-%d"
       categories:
         - tags
       comments_path: "#__comments"
