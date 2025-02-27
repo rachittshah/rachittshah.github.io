@@ -132,6 +132,7 @@ plugins:
         - tags
       comments_path: "#__comments"
       use_git: false
+      url: "feed_rss_created.xml"
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
@@ -155,7 +156,7 @@ extra:
     property: # Add your Google Analytics ID
   social:
     - icon: fontawesome/solid/rss
-      link: feed_rss_created.xml
+      link: /feed_rss_created.xml
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/rachittshah
     - icon: fontawesome/brands/github
