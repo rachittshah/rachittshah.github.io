@@ -1,5 +1,12 @@
-
-
+---
+date: 2022-03-19
+title: "How to Cold Email"
+description: "Tips and strategies for effective cold emailing"
+tags:
+  - career
+  - networking
+  - communication
+---
 
 ## How to write a good cold email?
 

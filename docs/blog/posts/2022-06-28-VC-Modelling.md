@@ -1,3 +1,13 @@
+---
+date: 2022-06-28
+title: "VC Modelling"
+description: "Understanding venture capital fund modeling and analysis"
+tags:
+  - venture-capital
+  - finance
+  - modeling
+---
+
 ### Venture Capital financial modelling notebook
 
 I've always wanted to cover how captables are modelled. Using this github repo, I show how can we build captables, calculate expenses and EBIT, and company valuations.

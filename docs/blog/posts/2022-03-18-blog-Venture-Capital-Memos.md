@@ -1,3 +1,13 @@
+---
+date: 2022-03-18
+title: "Venture Capital Memos"
+description: "Understanding and analyzing VC investment memos"
+tags:
+  - venture-capital
+  - investing
+  - memos
+---
+
 ## Venture Capital Memos
 
 A very common question asked by aspiring VCs is where do we learn how investments are made? VC is largely a learning on the job role. Feedback cycles take years at the minimum.

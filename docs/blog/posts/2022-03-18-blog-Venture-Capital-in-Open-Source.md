@@ -1,3 +1,13 @@
+---
+date: 2022-03-18
+title: "Venture Capital in Open Source"
+description: "Exploring the intersection of VC funding and open source software"
+tags:
+  - venture-capital
+  - open-source
+  - investing
+---
+
 # Venture Capital investments in Open Source
 
 # **Problem :**
@@ -47,7 +57,7 @@ India:
     - Supabase is a Firebase alternative.
     - Appsmith is a Retool alternative.
 - Networks will become public goods. Centralized networks have been one of the most effective ways to generate wealth.
-- The Global Open Source Services Market size is expected to reach $60 billion by 2027, rising at a market growth of 17% CAGR during the forecast period. The term ‘open source’ refers to a kind of licensing agreement, which enables users to independently alter a work, combine work with big projects, use a work in different ways or develop a new workout based on the authentic.
+- The Global Open Source Services Market size is expected to reach $60 billion by 2027, rising at a market growth of 17% CAGR during the forecast period. The term 'open source' refers to a kind of licensing agreement, which enables users to independently alter a work, combine work with big projects, use a work in different ways or develop a new workout based on the authentic.
 - The rising number of skilled developers is solving for India for the world. More developers have contributed to Open Source from India than any other country.
 
 # Growth
@@ -59,7 +69,7 @@ India:
 
 # **Opportunities**
 
-- The counter position to **compete** with incumbents. Make it hard for them to mimic your strategy. Copying should lead to cannibalizing their existing business. Medusa is a Shopify alternative. It’s unlikely that Shopify will open source. Even if Medusa becomes a formidable competitor.
+- The counter position to **compete** with incumbents. Make it hard for them to mimic your strategy. Copying should lead to cannibalizing their existing business. Medusa is a Shopify alternative. It's unlikely that Shopify will open source. Even if Medusa becomes a formidable competitor.
 - **Permissionless contribute** to open-source projects. Use open-source contributions to build a portfolio and find jobs. Laszlo Block, former VP of People Operations at Google, says the number of Google employees without a college education is rising.
 - Open-source alternatives avoid platform risk, vendor lock-in and rent-seeking behavior. Use code that you can **fork** **and self-host**. Platforms can raise prices without providing more value because switching costs are high.
 - Turn complaints into **contributions**. Accept pull requests. Along with feature requests. Augment your dev team with open-source contributions.
@@ -91,4 +101,4 @@ India:
 - [https://www.insightpartners.com/blog/product-led-growth-the-new-paradigm-in-software-selling/#:~:text=Open source is offering source,a freemium or free trial](https://www.insightpartners.com/blog/product-led-growth-the-new-paradigm-in-software-selling/#:~:text=Open%20source%20is%20offering%20source,a%20freemium%20or%20free%20trial).
 - [https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/saas-open-source-and-serverless-a-winning-combination-to-build-and-scale-new-businesses](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/saas-open-source-and-serverless-a-winning-combination-to-build-and-scale-new-businesses)
 - [https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/saas-open-source-and-serverless-a-winning-combination-to-build-and-scale-new-businesses](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/saas-open-source-and-serverless-a-winning-combination-to-build-and-scale-new-businesses)
-- [https://msupernaut.com/2021/11/12/open-source-💜-venture-capital/](https://msupernaut.com/2021/11/12/open-source-%f0%9f%92%9c-venture-capital/)
+- [https://msupernaut.com/2021/11/12/open-source-%f0%9f%92%9c-venture-capital/](https://msupernaut.com/2021/11/12/open-source-%f0%9f%92%9c-venture-capital/)
