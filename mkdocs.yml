@@ -136,6 +136,11 @@ plugins:
       post_date_format: yyyy/MM/dd
       post_url_format: "{date}/{slug}"
       authors_file: "{blog}/.authors.yml"
+      pagination: true
+      pagination_per_page: 10
+      pagination_format: "Page $page of $total_pages"
+      draft_on_serve: true
+      draft_if_future_date: true
 
 extra:
   analytics:

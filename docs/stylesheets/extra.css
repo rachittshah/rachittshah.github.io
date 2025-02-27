@@ -61,4 +61,42 @@ blockquote {
   margin: 1.5rem 0;
   padding-left: 1rem;
   color: #666;
+}
+
+/* Blog post styling */
+.blog-posts {
+    margin: 2rem 0;
+}
+
+.blog-posts h3 {
+    margin-bottom: 0.5rem;
+}
+
+.blog-posts small {
+    color: var(--md-default-fg-color--light);
+    display: block;
+    margin-bottom: 1rem;
+}
+
+.blog-posts hr {
+    margin: 2rem 0;
+    border: none;
+    border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+/* Hide last horizontal rule */
+.blog-posts hr:last-child {
+    display: none;
+}
+
+/* Read more link styling */
+.blog-posts a[href$="»"] {
+    display: inline-block;
+    margin-top: 0.5rem;
+    color: var(--md-primary-fg-color);
+    text-decoration: none;
+}
+
+.blog-posts a[href$="»"]:hover {
+    text-decoration: underline;
 } 

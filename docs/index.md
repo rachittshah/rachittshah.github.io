@@ -11,9 +11,20 @@ After years at top tech companies, I now help organizations build and optimize t
 
 ## Latest Blog Posts
 
-Check out my latest articles and insights:
+[blog_posts]
+<!-- Custom template for blog posts -->
+<div class="blog-posts">
+{% for post in blog_posts %}
+### [{{ post.title }}]({{ post.url }})
+<small>{{ post.date.strftime('%B %d, %Y') }}</small>
 
-{{ blog_content }}
+{{ post.description }}
+
+[Read more]({{ post.url }}) &raquo;
+
+---
+{% endfor %}
+</div>
 
 ## Work With Me
 

@@ -4,7 +4,7 @@ Welcome to my blog! Here you'll find my thoughts and experiences on AI Engineeri
 
 ## Latest Posts
 
-[BLOG_LIST]
+[blog_content]
 
 The posts are organized by date and tagged for easy navigation. Use the search feature or browse by tags to find specific topics.
 
@@ -19,6 +19,6 @@ The posts are organized by date and tagged for easy navigation. Use the search f
 ## Subscribe
 
 You can subscribe to my blog updates through:
-- [RSS Feed](/feed_rss_created.xml)
+- [RSS Feed](../feed_rss_created.xml)
 - [Twitter](https://twitter.com/rachittshah)
 - [LinkedIn](https://www.linkedin.com/in/rachitt-shah/) 
