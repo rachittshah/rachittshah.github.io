@@ -36,7 +36,7 @@ I usually operate in two ways:
 
 Open to exploring other ways of working if it suits you and your teams.
 
-[:material-calendar: Block time to chat](https://calendly.com/rachittshah){ .md-button .md-button--primary }
+[:material-calendar: Block time to chat](https://calendly.com/rachitt01/intro-call){ .md-button .md-button--primary }
 
 ## Experience
 
