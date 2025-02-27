@@ -1,43 +1,68 @@
 # Projects
 
-A showcase of my open-source projects and technical contributions.
+A collection of my hobby projects exploring various aspects of AI, LLMs, and knowledge graphs.
 
-## RAG Projects
+## LLM Evaluation & Reasoning
 
-### LangChain RAG Template
-A production-ready template for building RAG applications using LangChain.
-- [GitHub Repository](https://github.com/rachittshah/langchain-rag-template)
-- Python, LangChain, FastAPI
-- Features: Document processing, vector storage, API endpoints
+### Reasoning Evaluations
+A comprehensive framework for evaluating reasoning capabilities in Large Language Models.
+- [GitHub Repository](https://github.com/rachittshah/reasoning_evals)
+- Features: Systematic evaluation methods, reasoning benchmarks, performance analysis
 
-### Vector Search Benchmarks
-Comprehensive benchmarks of various vector database solutions.
-- [GitHub Repository](https://github.com/rachittshah/vector-search-benchmarks)
-- Python, Various Vector DBs
-- Features: Performance metrics, scaling tests, cost analysis
+### Llama.cpp Evaluations with DSPy
+Custom evaluation framework for Llama models using DSPy.
+- [GitHub Repository](https://github.com/rachittshah/llama.cpp-evals-dspy)
+- Features: Model performance metrics, DSPy integration, efficient evaluation pipelines
 
-## AI Tools
+### Tree of Thought with LMQL
+Implementation of Tree of Thought reasoning using LMQL for structured LLM interactions.
+- [GitHub Repository](https://github.com/rachittshah/tree-of-thought-lmql)
+- Features: Advanced reasoning patterns, LMQL integration, thought process visualization
 
-### Prompt Engineering Kit
-A toolkit for developing and testing LLM prompts.
-- [GitHub Repository](https://github.com/rachittshah/prompt-engineering-kit)
-- Python, JavaScript
-- Features: Prompt templates, testing framework, visualization tools
+## Knowledge Graphs & Recommendations
 
-### Model Evaluation Framework
-Framework for evaluating and comparing LLM performance.
-- [GitHub Repository](https://github.com/rachittshah/model-evaluation-framework)
-- Python, PyTorch
-- Features: Metrics collection, result analysis, reporting
+### LinkedIn Knowledge Graph Recommendations
+Knowledge graph-based recommendation system using LinkedIn data.
+- [GitHub Repository](https://github.com/rachittshah/linkedin-kg-recommendations)
+- Features: Graph-based recommendations, professional network analysis
 
-## Contributions
+### DSPy Knowledge Graphs
+Exploring knowledge graph construction and querying with DSPy.
+- [GitHub Repository](https://github.com/rachittshah/DSpy-KGs)
+- Features: Knowledge graph generation, DSPy integration, semantic querying
 
-### Open Source
-- LangChain: Various improvements and bug fixes
-- Weaviate: Documentation and examples
-- FastAPI: Performance optimizations
+## Prompt Engineering & Experimentation
 
-### Technical Writing
-- AI Engineering Blog Posts
-- RAG System Design Guides
-- Vector Database Tutorials 
+### DSPy Prompt Builder
+Interactive tool for building and optimizing prompts using DSPy.
+- [GitHub Repository](https://github.com/rachittshah/DSPy-prompt-builder)
+- Features: Prompt templates, optimization strategies, DSPy integration
+
+### PGit - GitHub for Prompts
+Version control and management system specifically designed for LLM prompts.
+- [GitHub Repository](https://github.com/rachittshah/pgit)
+- Features: Prompt versioning, collaboration tools, prompt history tracking
+
+### Prompt Evaluation Learnings
+Collection of insights and best practices for prompt engineering and evaluation.
+- [GitHub Repository](https://github.com/rachittshah/prompt-eval-learnings)
+- Features: Best practices, evaluation metrics, case studies
+
+## Fine-tuning & Experimentation
+
+### Fine-tuning Experiments
+Collection of experiments with various fine-tuning approaches for LLMs.
+- [GitHub Repository](https://github.com/rachittshah/fine-tuning-experiments)
+- Features: Different fine-tuning methods, performance comparisons, optimization techniques
+
+## LangChain Projects
+
+### CoV LangChain
+Chain of Verification implementation using LangChain.
+- [GitHub Repository](https://github.com/rachittshah/CoV-langchain)
+- Features: Verification chains, accuracy improvements, LangChain integration
+
+### LangChain Experiments
+Various experimental implementations and use cases with LangChain.
+- [GitHub Repository](https://github.com/rachittshah/experiments-langchain)
+- Features: Different chain types, use case implementations, best practices 
