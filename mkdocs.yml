@@ -2,9 +2,9 @@ site_name: Rachitt Shah
 site_author: Rachitt Shah
 site_description: >-
   AI Engineering, RAG Systems, and Technical Notes
-repo_name: blog
+repo_name: rachittshah.github.io
 repo_url: https://github.com/rachittshah/rachittshah.github.io
-site_url: https://rachittshah.github.io/
+site_url: https://rachittshah.github.io
 edit_uri: edit/main/docs/
 copyright: Copyright &copy; 2024 Rachitt Shah
 
