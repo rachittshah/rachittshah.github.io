@@ -1,0 +1,64 @@
+/* Custom styles */
+:root {
+  --md-primary-fg-color: #6200ea;
+  --md-primary-fg-color--light: #7c4dff;
+  --md-primary-fg-color--dark: #4527a0;
+  --md-accent-fg-color: #7c4dff;
+}
+
+/* Custom button styles */
+.md-button {
+  margin-right: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+/* Custom link styles */
+.md-content a:not(.md-button) {
+  text-decoration: none;
+  border-bottom: 1px solid var(--md-accent-fg-color);
+}
+
+.md-content a:not(.md-button):hover {
+  border-bottom: 2px solid var(--md-accent-fg-color);
+}
+
+/* Custom heading styles */
+.md-content h1 {
+  color: var(--md-primary-fg-color);
+  margin-bottom: 2rem;
+}
+
+.md-content h2 {
+  color: var(--md-primary-fg-color--dark);
+  margin-top: 2rem;
+}
+
+/* Custom list styles */
+.md-content ul {
+  list-style: none;
+  padding-left: 1.5rem;
+}
+
+.md-content ul li::before {
+  content: "•";
+  color: var(--md-accent-fg-color);
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+
+/* Custom code block styles */
+.highlight {
+  background-color: #f8f9fa;
+  border-radius: 4px;
+  padding: 1rem;
+}
+
+/* Custom blockquote styles */
+blockquote {
+  border-left: 4px solid var(--md-accent-fg-color);
+  margin: 1.5rem 0;
+  padding-left: 1rem;
+  color: #666;
+} 
