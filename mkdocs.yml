@@ -124,6 +124,13 @@ plugins:
   - social
   - rss:
       match_path: "blog/posts/.*"
+      date_from_meta: true
+      date_format: "%Y-%m-%d"
+      as_creation: date
+      as_update: date
+      categories:
+        - tags
+      comments_path: "#__comments"
       use_git: false
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
