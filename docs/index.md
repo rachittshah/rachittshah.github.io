@@ -1,50 +1,63 @@
-# What's up? :wave:
-
-I'm an [independent consultant](contact.md#work-with-me), staff-level machine learning engineer, and AI systems architect. I write about AI engineering, RAG systems, and how to systematically improve AI applications.
-
-After years at top tech companies, I now help organizations build and optimize their AI systems. I focus on:
-
-- Designing and implementing RAG systems
-- Optimizing vector search implementations
-- Building scalable AI applications
-- Developing efficient Python applications
-
-## Latest Blog Posts
-
-[blog_posts]
-<!-- Custom template for blog posts -->
-<div class="blog-posts">
-{% for post in blog_posts %}
-### [{{ post.title }}]({{ post.url }})
-<small>{{ post.date.strftime('%B %d, %Y') }}</small>
-
-{{ post.description }}
-
-[Read more]({{ post.url }}) &raquo;
-
 ---
-{% endfor %}
-</div>
+title: Rachitt Shah
+description: Applied AI consultant specializing in LLM evaluations and engineering
+---
 
-## Work With Me
+# About Me
 
-I help teams adapt to AI's rapid evolution. When I'm not consulting, I produce educational content and courses to help more engineers thrive in the changing AI landscape.
+I'm an Applied AI consultant with a strong interest in startups, venture capital and software engineering.
 
-[Subscribe to my Newsletter](#){ .md-button .md-button--primary }
+My personal areas of interest in Applied AI are LLM evaluations.
 
-## Open Source
+!!! quote
+    The ideal engineer is a composite. He is not a scientist, he is not a mathematician, he is not a sociologist or a writer, but he may use the knowledge and techniques of any or all of these disciplines in solving engineering problems.
 
-I maintain several open-source projects and contribute to the AI community:
+## Past Clients
 
-- [LangChain RAG Template](https://github.com/rachittshah/langchain-rag-template) - Production-ready RAG template
-- [Vector Search Benchmarks](https://github.com/rachittshah/vector-search-benchmarks) - Vector DB performance analysis
-- [More projects...](projects.md)
+Some of my past clients include:
 
-## Let's Connect
+- Dell
+- Razorpay
+- Calsoft
+- Athina AI
+- Literal AI/Chainlit
+- Giant Ventures
+- Replit
+- Arcee AI
 
-Feel free to reach out:
+*This is a non-exhaustive list.*
 
-- [:fontawesome-brands-github: GitHub](https://github.com/rachittshah)
-- [:fontawesome-brands-twitter: Twitter](https://twitter.com/rachittshah)
-- [:fontawesome-brands-linkedin: LinkedIn](https://www.linkedin.com/in/rachittshah)
-- [:material-email: Email](mailto:contact@rachittshah.com) 
+## Working Together
+
+I usually operate in two ways:
+
+1. **Secondment to your teams**: act as a part of your team to help you solve your AI problems.
+2. **IC**: share me the context of your problem, and I build and fix it for you.
+
+Open to exploring other ways of working if it suits you and your teams.
+
+[:material-calendar: Block time to chat](https://calendly.com/rachitt01/intro-call){ .md-button .md-button--primary }
+
+## Experience
+
+### Engineering
+
+- Data Engineering at General Catalyst. Pushed GPT-3 in prod as early as 2022.
+- Quant Developer at an Options trading fund, AUM 300K USD.
+- SRE at Last9 Inc.
+- Software Engineering at Sequoia Capital India.
+- Founded Transfrm.ai, a GenAI consulting firm
+- Google Summer of Code 2021 with OpenAstronomy.
+- Google Season of Docs 2021 with HPX.
+- Google Season of Docs 2022 with The R Foundation for Statistical Computing.
+
+### Investing
+
+- Associate with gradCapital.
+- Investment analyst with EMVC and Speciale Invest.
+- Venture Capital Fellow at Blume Ventures.
+
+## Current Focus
+
+- Exploring making LLMs more robust using evals and monitoring.
+- Contributing to OSS (for fun!) 
