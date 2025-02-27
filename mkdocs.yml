@@ -125,7 +125,9 @@ plugins:
   - rss:
       abstract_chars_count: 160
       match_path: "blog/posts/.*"
-      date_from_meta_field: date
+      enabled: true
+      feed_ttl: 1440
+      length: 20
       categories:
         - tags
       comments_path: "#__comments"
