@@ -151,7 +151,7 @@ plugins:
 extra:
   analytics:
     provider: google
-    property: # Add your Google Analytics ID
+    property: G-Y379ZJKVSG
   social:
     - icon: fontawesome/solid/rss
       link: /feed_rss_created.xml
