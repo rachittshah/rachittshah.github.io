@@ -1,12 +1,6 @@
 # Blog Posts
 
-Welcome to my blog! Here you'll find my thoughts and experiences on AI Engineering, RAG Systems, Venture Capital, and more.
-
-## Latest Posts
-
-[blog_content]
-
-The posts are organized by date and tagged for easy navigation. Use the search feature or browse by tags to find specific topics.
+Sharing my views, opinions and learnings on AI Engineering, RAG Systems, Venture Capital, and more.
 
 ## Categories
 
